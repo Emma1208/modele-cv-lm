@@ -5,6 +5,9 @@
   "cle_dossier": "dossier-candidatures-v1",
   "description": "Base de données JSON du modèle CV & lettres de motivation.",
   "cv_state": null,
-  "dossier_data": null,
-  "ts": 0
+  "dossier_data": {
+    "offers": [],
+    "active": ""
+  },
+  "ts": 1
 }
