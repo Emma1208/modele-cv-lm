@@ -1,0 +1,10 @@
+{
+  "app": "Modèle CV & LM",
+  "version": 1,
+  "cle_cv": "cv-kakesa-index-v1",
+  "cle_dossier": "dossier-candidatures-v1",
+  "description": "Base de données JSON du modèle CV & lettres de motivation.",
+  "cv_state": null,
+  "dossier_data": null,
+  "ts": 0
+}
